@@ -3,7 +3,7 @@ Author: Richard Taracha
 
 Date: 09/04/2020
 
-![Project Image](project-image-url)
+![Chicago](https://user-images.githubusercontent.com/67068918/92182827-4a09ab80-ee55-11ea-842e-6992cee71101.jpg)
 
 ---
 
