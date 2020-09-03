@@ -33,7 +33,7 @@ With this project, I'm trying to understand car crashes in the city of Chicago b
 ---
 
 ## Project Deliverable
-Deliverable is a python notebook that contains my solution. 
+Deliverable is a python notebook that contains my solution: Chicago City Traffic Accidents.ipynb
 
 Dataset name: traffic_accidents.csv
 
