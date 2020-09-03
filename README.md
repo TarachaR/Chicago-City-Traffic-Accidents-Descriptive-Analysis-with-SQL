@@ -30,7 +30,11 @@ With this project, I'm trying to understand car crashes in the city of Chicago b
 ---
 
 ## Project Deliverable
-Deliverable is a python notebook that contains my solution. As part of your descriptive analysis report, I decided to find answers to the following questions using SQL:
+Deliverable is a python notebook that contains my solution. 
+
+Dataset name: traffic_accidents.csv
+
+As part of my descriptive analysis report, I decided to find answers to the following questions using SQL:
 
 1. Display a list of 5 makes that had the highest number of crashes?
 2. Most personal vehicles involved in crashes were travelling towards which direction? 
