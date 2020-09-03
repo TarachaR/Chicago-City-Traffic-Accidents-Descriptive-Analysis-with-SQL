@@ -1,4 +1,7 @@
 # Chicago City Traffic Accidents Descriptive Analysis with SQL
+Author: Richard Taracha
+
+Date: 09/04/2020
 
 ![Project Image](project-image-url)
 
