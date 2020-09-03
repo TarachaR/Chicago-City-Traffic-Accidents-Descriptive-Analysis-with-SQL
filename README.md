@@ -48,6 +48,7 @@ As part of my descriptive analysis report, I decided to find answers to the foll
 7. Sort the number of passengers in descending order by travel direction taking into account travel direction. Return travel direction and no. of passengers.
 8. Select top 5 vehicle models involved in the accident with no defect, order them by make and show their manoeuvre. 
 9. Which ridesharing vehicles in an accident had the most number of passengers? Return model, and no of passengers.
+
 [Back To The Top](#read-me-template)
 
 ---
