@@ -28,7 +28,7 @@ With this project, I'm trying to understand car crashes in the city of Chicago b
 - SQL
 - Google Colab Notebook
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Chicago-City-Traffic-Accidents-Descriptive-Analysis-with-SQL)
 
 ---
 
