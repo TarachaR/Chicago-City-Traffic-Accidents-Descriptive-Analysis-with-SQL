@@ -49,7 +49,7 @@ As part of my descriptive analysis report, I decided to find answers to the foll
 8. Select top 5 vehicle models involved in the accident with no defect, order them by make and show their manoeuvre. 
 9. Which ridesharing vehicles in an accident had the most number of passengers? Return model, and no of passengers.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Chicago-City-Traffic-Accidents-Descriptive-Analysis-with-SQL)
 
 ---
 
@@ -62,7 +62,7 @@ As part of my descriptive analysis report, I decided to find answers to the foll
 - The the total occupant count per vehicle count is 7779.0.
 - The ridesharing service vehicle model with the most number of passengers involved in an accident is MKZ with a total number of 4 passengers.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Chicago-City-Traffic-Accidents-Descriptive-Analysis-with-SQL)
 
 ---
 
@@ -71,7 +71,7 @@ As part of my descriptive analysis report, I decided to find answers to the foll
 - All roads leadding to the South should be inspected for any hazards that may lead to road accidents.
 - The ridesharing service providing its services with the vehicle model MKZ should delve more into and review its policies which may help shed more light as to why they have the most number of passengers involved in accidents.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Chicago-City-Traffic-Accidents-Descriptive-Analysis-with-SQL)
 
 ---
 
@@ -80,5 +80,5 @@ As part of my descriptive analysis report, I decided to find answers to the foll
 - Twitter - [blank]
 - Website - [blank]
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Chicago-City-Traffic-Accidents-Descriptive-Analysis-with-SQL)
 
