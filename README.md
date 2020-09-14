@@ -8,6 +8,8 @@ Date: 09/04/2020
 ---
 
 ### Table of Contents
+
+Sections headers used to reference locations of each destination:
 - [Understanding The Context](#Understanding-The-Context)
 - [Project Deliverable](#Project-Deliverable)
 - [Summary Of Findings](#Summary-Of-Findings)
