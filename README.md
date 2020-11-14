@@ -79,8 +79,8 @@ As part of my descriptive analysis report, I decided to find answers to the foll
 
 ## Author Info
 
-- Twitter - [blank]
-- Website - [blank]
+- Twitter - https://twitter.com/Vycellous_Drum
+- Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Chicago-City-Traffic-Accidents-Descriptive-Analysis-with-SQL)
 
